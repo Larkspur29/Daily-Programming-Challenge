@@ -1,4 +1,4 @@
-def sortColors(self, arr):
+def sortColors(arr):
         low = 0
         mid = 0
         high = len(arr) - 1
